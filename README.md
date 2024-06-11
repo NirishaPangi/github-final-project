@@ -1,10 +1,4 @@
 # github-final-project
-I completed a Git and GitHub basics course on edX. To successfully finish the course, I must submit a project assigned with a specific scenario.
-# Given Scenario
-You recently got hired as a developer in a micro-finance startup with a mission to empower and provide opportunities for low income individuals. The core team currently uses Subversion (SVN) for managing code. They want to slowly move their code to Git. You are asked to host their sample code to calculate simple interest on GitHub in a new repository as the first step in this journey. You will not only host the script, but also follow best practices introduced in this course and create supporting documents for the open source project including a code of conduct, and contribution guidelines. Additionally, the repository should be available to the community under the Apache License 2.0.
-
-# As a part of project part-1 :
-Task-3 is to update the README FILE with following Information:
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
